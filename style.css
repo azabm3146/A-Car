@@ -1,0 +1,29 @@
+* {
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+header {
+  background-color: #219fa8;
+  color: white;
+}
+header h1 {
+  padding: 20px;
+  font-weight: normal;
+}
+p {
+  background-color: white;
+  color: black;
+  padding: 15px;
+}
+footer {
+  background-color: #219fa8;
+  color: white;
+  padding: 15px;
+}
+header,
+img,
+p,
+footer {
+  width: 100%;
+  height: auto;
+}
